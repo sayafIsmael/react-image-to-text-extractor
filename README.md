@@ -1,6 +1,6 @@
 # Extract image from texts
 
-[Live demo](https://github.com/facebook/create-react-app).
+[Live demo](https://react-image-to-text-extractor.vercel.app).
 
 Uplaod image or paste from clipboard
 
